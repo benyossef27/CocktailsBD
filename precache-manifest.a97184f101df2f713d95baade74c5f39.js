@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2784e190f2b32f7ebf0e16e20b4e482",
+    "revision": "79b30e0fdaabbf490b7e19eb0b8d235c",
     "url": "/CocktailsBD/index.html"
   },
   {
-    "revision": "4ea63efb4f1ed14c2a6a",
+    "revision": "e378faf8208678e59a7a",
     "url": "/CocktailsBD/static/css/main.db6e84ad.chunk.css"
   },
   {
-    "revision": "797050a0fe228514c9f2",
-    "url": "/CocktailsBD/static/js/2.39eed288.chunk.js"
+    "revision": "27a737b48a0769929b40",
+    "url": "/CocktailsBD/static/js/2.41f201ac.chunk.js"
   },
   {
     "revision": "0c91d6cf6408089b81f706ebde51ebe6",
-    "url": "/CocktailsBD/static/js/2.39eed288.chunk.js.LICENSE.txt"
+    "url": "/CocktailsBD/static/js/2.41f201ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ea63efb4f1ed14c2a6a",
-    "url": "/CocktailsBD/static/js/main.947fd282.chunk.js"
+    "revision": "e378faf8208678e59a7a",
+    "url": "/CocktailsBD/static/js/main.ae2cf75e.chunk.js"
   },
   {
     "revision": "59ad476f80acf7106c63",
